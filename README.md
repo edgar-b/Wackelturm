@@ -1,4 +1,5 @@
 ~ Wackelturm ~
+
 A fun way to develop new ways of teaching.
 
 Version 1. Released 12. Mar 2015.
@@ -11,6 +12,7 @@ Published under CC BY-NC-SA 3.0 DE
 
 
 ~Wackelturm (Deutsch) ~
+
 Eine lustige Methode zur Entwicklung neuer Unterrichtsmethoden.
 
 Version 1. Veröffentlicht 12. März 2015.
