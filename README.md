@@ -1,5 +1,5 @@
 Wackelturm
-==========
+----------
 
 A fun way to develop new ways of teaching.
 
@@ -12,7 +12,7 @@ You can find the instructions for building your own set as well as the templates
 Published under CC BY-NC-SA 3.0 DE
 
 Wackelturm (Deutsch)
-====================
+--------------------
 
 Eine lustige Methode zur Entwicklung neuer Unterrichtsmethoden.
 
