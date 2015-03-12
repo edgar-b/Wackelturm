@@ -6,6 +6,8 @@ Version 1. Veröffentlicht 12. März 2015.
 Spielsteine
 -----------
 
+![Maße Spielsteine](https://raw.githubusercontent.com/edgar-b/Wackelturm/master/img/parts.jpg)
+
 Die ersten Sets sind aus 10 mm dickem Pappel-Sperrholz. Die Oberfläche ist mehrfach glatt geschleift und mit Holzwachs behandelt worden. Unbehandelte Steine erzeugen eine zu starke Reibung und lassen sich nicht aus dem Turm herausziehen. Die Behandlung ist ähnlich der Verarbeitung von Kinder-Möbeln, die ebenfalls eine sehr glatte Oberfläche aufweisen.
 
 Die Gravierung der Steine und der Zuschnitt mit einem Lasercutter sollte, sofern dieser die nötige Leistung besitzt, in einem Schritt durchgeführt werden. Dadurch kann gewährleistet werden, dass die Worte genau zentriert sind.
