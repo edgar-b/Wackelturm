@@ -1,6 +1,8 @@
 Wackelturm
 ----------
 
+![Wackelturm](https://raw.githubusercontent.com/edgar-b/Wackelturm/master/img/header.jpg)
+
 A fun way to develop new ways of teaching.
 
 Version 1. Released 12. Mar 2015.
