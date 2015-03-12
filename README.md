@@ -14,7 +14,7 @@ Published under CC BY-NC-SA 3.0 DE
 Wackelturm (Deutsch)
 --------------------
 
-Eine lustige Methode zur Entwicklung neuer Unterrichtsmethoden.
+Ein lustiger Weg zur Entwicklung neuer Unterrichtsmethoden.
 
 Version 1. Veröffentlicht 12. März 2015.
 
