@@ -29,7 +29,7 @@ Due to the nature of lasers, dark discolourations can happen around the cuts. Wi
 Box
 ---
 
-220 g/m² paper is perfectly fine for the housing, heavier paper is harder to print and fold. Die templates are sized DIN A2, available paper is often sized a bit greater, so make sure not to make the template fit on the page but keep it at 100% size.
+220 g/m² paper is perfectly fine for the housing, heavier paper is harder to print and fold. The templates are sized DIN A2, available paper is often sized a bit greater, so make sure not to make the template fit on the page but keep it at 100% size.
 
 Attention: although i made a laser cut template for the box, i haven't tested it yet. Use with caution.
 
