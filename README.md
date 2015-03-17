@@ -1,6 +1,9 @@
 Wackelturm
 ----------
 
+Update (17. Mar 2015)
+The following days I'm going to release the next version of the box. If you're planning to build your own set I advise you to wait for the new files.
+
 ![Wackelturm](https://raw.githubusercontent.com/edgar-b/Wackelturm/master/img/header.jpg)
 
 A fun way to develop new ways of teaching.
@@ -16,7 +19,8 @@ Published under CC BY-NC-SA 3.0 DE
 Wackelturm (Deutsch)
 --------------------
 
-Ein lustiger Weg zur Entwicklung neuer Unterrichtsmethoden.
+Update (17. März 2015)
+Die folgenden Tage werde ich eine neue Box veröffentlichen. Ich rate dazu, die neuen Dateien abzuwarten, bevor Sie Ihre eigene Box bauen.
 
 Version 1. Veröffentlicht 12. März 2015.
 
