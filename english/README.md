@@ -1,7 +1,7 @@
 Wackelturm
 ==========
 
-Version 1. Published 23. Mar 2015.
+Version 2. Published 23. Mar 2015.
 
 Bricks
 -----------
