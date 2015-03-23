@@ -1,7 +1,7 @@
 Bauanleitung Wackelturm
 =======================
 
-Version 1. Veröffentlicht 12. März 2015.
+Version 2. Veröffentlicht 23. März 2015.
 
 Spielsteine
 -----------
@@ -30,14 +30,15 @@ Verpackung
 
 Für die Verpackung eignet sich 220 g/m² schweres Papier, oftmals erhältlich in der Größe 50 x 65 cm. Die Druckvorlage liegt in DIN A2-Größe vor. Bei dem Druck sollte darauf geachtet werden, dass die Datei nicht skaliert wird.
 
-Achtung: Obwohl ein Lasercut-Template für die Box vorhanden ist, ist dieses noch nicht getestet worden.
-
 Bei dem manuellen Schneiden der Box sollte darauf geachtet werden, an den Innenseiten der Umrandung zu schneiden. Um das Falten zu erleichtern, bietet es sich an, die Faltkanten an der Rückseite leicht einzuritzen.
 
 Anschließend muss nur die lange Lasche verklebt werden und fertig ist die Box.
 
-Demnächst
+Die innere Box wird nur gefaltet und nicht verklebt.
+
+Changelog
 ---------
 
-- Die Box ist umständlich zu befüllen. In der Zukunft wird ein separates, entnehmbares Innenteil die Steine aufnehmen
-- Die Spielanleitungen werden in gedruckter Form beigelegt
+- Neues Box-Layout. Die Steine werden nun von einer seperaten Box gehalten, um die Entahme zu vereinfachen
+- Lasercut getestet
+- Spielanleitungen liegen nun druckfertig bei

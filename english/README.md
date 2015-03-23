@@ -1,7 +1,7 @@
 Wackelturm
 ==========
 
-Version 1. Published 13. Mar 2015.
+Version 1. Published 23. Mar 2015.
 
 Bricks
 -----------
@@ -31,14 +31,19 @@ Box
 
 220 g/m² paper is perfectly fine for the housing, heavier paper is harder to print and fold. The templates are sized DIN A2, available paper is often sized a bit greater, so make sure not to make the template fit on the page but keep it at 100% size.
 
-Attention: although i made a laser cut template for the box, i haven't tested it yet. Use with caution.
-
 When cutting manually make sure to cut on the inside of the guidelines. To make the folding easier, carefully scratch toe folding edges on the back side.
 
 Glue the large flap to the side and fill the boy with the bricks.
 
-Coming up next
---------------
+The inner box doesn't require glue.
 
-- the box is difficult to fill. The next Version will contain a separate container holding the bricks.
-- printed game instructions in the box
+Changelog
+---------
+
+- new box layout. The bricks are now contained in an inner box to simplify the removal and refill
+- box lasercut template tested and approved
+
+
+coming up
+---------
+- translation of the instructions

@@ -1,8 +1,8 @@
 Wackelturm
 ----------
 
-Update (17. Mar 2015)
-The following days I'm going to release the next version of the box. If you're planning to build your own set I advise you to wait for the new files.
+Update (23. Mar 2015)
+New Files are online, the changelog is located in the respective folders.
 
 ![Wackelturm](https://raw.githubusercontent.com/edgar-b/Wackelturm/master/img/header.jpg)
 
@@ -19,8 +19,8 @@ Published under CC BY-NC-SA 3.0 DE
 Wackelturm (Deutsch)
 --------------------
 
-Update (17. März 2015)
-Die folgenden Tage werde ich eine neue Box veröffentlichen. Ich rate dazu, die neuen Dateien abzuwarten, bevor Sie Ihre eigene Box bauen.
+Update (23. März 2015)
+Aktualisierte Dateien sind online. Die Änderungen sind der jeweiligen Readme zu entnehmen.
 
 Version 1. Veröffentlicht 12. März 2015.
 
